@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Black Widow",
+    "year": 2021,
+    "genres": [
+      "Spy / Espionage",
+      "Super Hero",
+      "Action-Adventure"
+    ]
+  },
+  {
+    "name": "Avengers Infinity War",
+    "year": 2017,
+    "genres": [
+      "Science Fiction",
+      "Fantasy",
+      "Super Hero",
+      "Action-Adventure"
+    ]
+  },
+  {
+    "name": "Iron Man",
+    "year": 2008,
+    "genres": [
+      "Science Fiction",
+      "Super Hero",
+      "Action-Adventure"
+    ]
+  },
+  {
+    "name": "Captain America - The First Avenger",
+    "year": 2011,
+    "genres": [
+      "Science Fiction",
+      "Super Hero",
+      "Action-Adventure"
+    ]
+  },
+  {
+    "name": "Frozen",
+    "year": 2001,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Action-Adventure",
+      "Musical"
+    ]
+  },
+  {
+    "name": "Zootropolis",
+    "year": 2015,
+    "genres": [
+      "Police / Cop",
+      "Family",
+      "Comedy",
+      "Animation"
+    ]
+  },
+  {
+    "name": "Moana",
+    "year": 2016,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Action-Adventure",
+      "Musical"
+    ]
+  },
+  {
+    "name": "Brave",
+    "year": 2012,
+    "genres": [
+      "Coming of Age",
+      "Family",
+      "Fantasy",
+      "Animation"
+    ]
+  },
+  {
+    "name": "Up",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Family",
+      "Animation",
+      "Action-Adventure",
+      "Buddy"
+    ]
+  },
+  {
+    "name": "The Good Dinosaur",
+    "year": 2014,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Action-Adventure",
+      "Buddy"
+    ]
+  },
+  {
+    "name": "Star Wars: The Rise of Skywalker",
+    "year": 2019,
+    "genres": [
+      "Science Fiction",
+      "Action-Adventure"
+    ]
+  },
+  {
+    "name": "Star Wars: A New Hope",
+    "year": 1977,
+    "genres": [
+      "Science Fiction",
+      "Action-Adventure"
+    ]
+  },
+  {
+    "name": "Solo A Star Wars Story",
+    "year": 2018,
+    "genres": [
+      "Science Fiction",
+      "Crime",
+      "Action-Adventure"
+    ]
+  }
+]
